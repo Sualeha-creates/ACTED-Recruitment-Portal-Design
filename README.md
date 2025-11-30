@@ -1,9 +1,9 @@
-ACTED Recruitment Portal – Webpage Design
+🌟ACTED Recruitment Portal – Webpage Design
 
 A simple HTML & CSS design inspired by the ACTED Recruitment Portal.
 The page includes an about section, job openings list, and a clean structured layout using Font Awesome icons.
 
-Features
+🚀Features
 
 Header with logo and title
 
@@ -15,11 +15,18 @@ Simple, clean, responsive layout
 
 Footer with social media icons
 
-Technologies Used
+🛠Technologies Used
 
 HTML5
 
 CSS3
 
 Font Awesome Icons
+
+👩‍💻 Author
+
+Sualeha Creates
+
+Open to feedback and improvements!
+
 
